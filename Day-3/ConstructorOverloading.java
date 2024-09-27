@@ -8,7 +8,7 @@ public class ConstructorOverloading {
     }
 }
 
-/**
+/*
  * InnerConstructorOverloading
  */
  class Area {
