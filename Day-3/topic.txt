@@ -1,24 +1,39 @@
 ----------------------------------------------------------------------------
-*** Method--> The code of block which contains body, argument and return type.. 
-            invoke explicity.
-            Name must be same or differnt with class name.
+*** Method--> A method is a block of code that performs a specific task and can be called explicitly.
+    It consists of:
+        Return Type: What the method returns (or void if nothing is returned).
+        Method Name: Can be the same or different from the class name.
+        Arguments/Parameters: Values passed to the method.
+        Method Body: The actual logic of the method.
 ----------------------------------------------------------------------------------
 1. METHOD OVERRIDING --> 
-    same method Signature in parent(super) class as well as in child(Derived) class
+    Method overriding occurs when a method in a child (derived) class has the same signature (name and parameter list) as a method in the parent (super) class.
+    This allows the child class to provide a specific implementation of the method.
 --------------------------------------------------------------------------------
 2. WHAT IS CONSTRUCTOR?
-    Constructor is the block of code Similear to the method. it is called when an instance of the class is created.
-    It is Similear name with class name.
-    It is initilized at that time when object of class is created.
+    A constructor is a special type of method that is called when an instance (object) of a class is created.
+    The constructor's name must be the same as the class name, and it does not have a return type.
+    It is used to initialize the object’s properties.
 --------------------------------------------------------------------------------
 .3 METHOD OVERLOADING-->
     Which allow us to create multiple method with same signature in single class with 
     different Implementation.
 ----------------------------------------------------------------------------
 4. Array-- > Is The Collection of Similear item
+            Arrays are fixed in size and can be of any primitive or reference type.
 ----------------------------------------------------------------------------
 5. Access Modifier --> private public protected default
         public : Access all over the package and outside
-        private : Access within package
-        protected : Access only the class and derived class
+        private : Access only within declared classes
+        protected : Access only the class and derived class either package or outside
         default : Access only within package
+
+
+Summary Table of Key Concepts:
+Concept             |       	Description
+Method	            | Block of code that performs a task, must be called explicitly.
+Method Overriding	| Child class redefines a method of the parent class with the same signature.
+Constructor	        | Special method called when an object is created, used to initialize the object.
+Method Overloading	| Same method name with different parameters, providing different implementations.
+Array	            | Collection of elements of the same type, fixed in size.
+Access Modifiers	| Controls visibility (public, private, protected, default).
