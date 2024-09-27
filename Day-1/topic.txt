@@ -1,0 +1,51 @@
+-------------basic of java --------------------
+1.what is java? 
+    Is a programming language and computing  platform. 
+    Released by sum microsystem in 1995 . Based on OOP 
+    Used to develop large scale application. 
+    Is a platform independent.
+    Desktop application -> Media player, Antivirus
+    Mobile application -> Android
+    Web application -> javaTpoint
+
+2.Features of Java -> 
+    1. Simple -> easy to use and learn . easy syntax 
+    2. Object Oriented : Everything in java is object Oriented.
+    3.platform independent : excute on Multiple platform because of its bytecode
+    4.secured : no explicit pointer , programs runs inside virtual machine
+    5. Robust : error handling and memory management is done by JVM
+    6. Architecture Neutral : same binary can run on any platform
+    7. Portable : same binary can run on any platform
+    8. Multithreaded : can run multiple thread at same time
+    9. Dynamic : can load class at runtime
+    10. High Performance : JVM optimize the code at runtime
+
+3. difference between java and c++
+    1. platform independent : java is platform independent while c++ is not
+    2. memory management : java is automatic memory management while c++ is manual memory management
+    3. object oriented : java is object oriented while c++ is not
+    4. syntax : java is easy to learn and use while c++ is difficult to learn and use
+    5. multithreading : java is multithreaded while c++ is not
+
+
+4.DataTypes in java?
+    A.Primitive Datatypes : 
+        1.boolean -> For Yes NO values2
+        2.int -> For Integer value
+        3.float -> for decimal values --> single precision 32 bit
+        4.double ->  for double precision values --> 64 bit
+        5.long -> store 64 bit two's Complemnet Integer
+        6.short -> store 16 bit signed two's Complemnet Integer
+        7.char -> store single character values
+        8.byte -> store 8 bit two's Complemnet Integer
+    B. Non- Primitive DataTypes
+        1.Array - > is the collection of similear Primitive dataTypes
+        2.Object -> is the real time entity having some state and behaviour
+        3.String -> Is the collection (Array or set) of char 
+
+5.what is Wrapper Class?
+    The Wrapper class is an object class that encapsulting primitive dataTypes 
+    to object class.
+    It is final and immutable.. 
+    ** AutoBoxing -> primitive to object class
+    ** Unboxing -> object class to primitive
