@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------
+*** Method--> The code of block which contains body, argument and return type.. 
+            invoke explicity.
+            Name must be same or differnt with class name.
+----------------------------------------------------------------------------------
+1. METHOD OVERRIDING --> 
+    same method Signature in parent(super) class as well as in child(Derived) class
+--------------------------------------------------------------------------------
+2. WHAT IS CONSTRUCTOR?
+    Constructor is the block of code Similear to the method. it is called when an instance of the class is created.
+    It is Similear name with class name.
+    It is initilized at that time when object of class is created.
+--------------------------------------------------------------------------------
+.3 METHOD OVERLOADING-->
+    Which allow us to create multiple method with same signature in single class with 
+    different Implementation.
+----------------------------------------------------------------------------
+4. Array-- > Is The Collection of Similear item
+----------------------------------------------------------------------------
+5. Access Modifier --> private public protected default
+        public : Access all over the package and outside
+        private : Access within package
+        protected : Access only the class and derived class
+        default : Access only within package

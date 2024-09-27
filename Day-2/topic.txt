@@ -1,0 +1,72 @@
+
+1.what is jvm, jre jdk?
+    JVM --> java Virtual Machine --> is a part of JRE
+        JVM is the type of interpeter responsible for converting bytecode into machine
+        readable code.
+        JVM itself is platform dependent but it interprets the bytecode which is the platform
+        so, the java is a platform independent..
+
+    JDK --> Java Develpment Kit
+        Which is provide the Environment to develope and excute the code.
+        JDK Provide two things --> 1. Develpment Tools -> To Provide Environment to develope
+        java programs.
+        2. JRE : - > TO Execute java program and applications.
+
+    JRE --> java Runtime Environment 
+        JRE facilitates the execution of programs developed in java . 
+        1.JVM 
+        2.Runtime class libraries -> There are a set of Core Classes libraries that are
+            required for the execution of java programs.
+        3.User Interface toolkits -> eg. Swing , AWT
+        4.Develpment Technolgies -> 
+            1.java plug-in -> Enable the execution of a java applet on the browser
+            2.java web start -> enable remote-deployment of an application. 
+
+
+----------------------------------------------------------------------------
+2.operator in java?
+    A.Arithmetic Operation
+        1. + -> It is Used to Addition
+        2. - -> It is used to Subtraction
+        3. * -> It is used to Multiplication
+        4. / -> it is used to Division Operation
+        5. % -> Modulo Division Operator .. (Remainder)
+
+    B.Shift operator -> 
+        1. left shift operator --> << is used to shift all of the bits
+        in a value to the left side of a specified number of times
+             << -> (10 << 2)  --> 10*2^2  = 10 * 4 = 40
+                    (10 << 3)  --> 10*2^3 = 10 * 8 = 80
+        2.Right Shift operator-->  >>
+            (10 >> 2) --> 10 / 2^2 --> 10 / 4 -- > 4
+
+    C. Relational Operator -> 
+        1. < --- is less than
+        2. > --- is Greater than
+        3. == --- Is equal to 
+        4. <= --- is less than or equal to 
+        5. >= --- is Greater than or equal to
+        6. != --- is Not equal
+
+    D. Bitwise Operator
+        For Manipulation of data at values of bit level. These operator is used for
+        testing the bits, or shifting them to the right or left. 
+        --> Not apply to the float and double
+        1.& --> Bitwise AND
+        2. ! --> Bitwise OR
+        3. ^ --> Bitwise exclusive
+        4. ~ --> one's Complemnet
+        5. << --> shift left
+        6. >> --> shift Right
+        7. >>> --> shift Right with zero fill
+
+    E. Logical Operator
+        1. && --> Logical AND
+        2. || --> Logical OR
+        3. !  --> Logical NOT
+
+    F. Ternary Operator
+
+    G. Assignment Operator 
+----------------------------------------------------------------------------
+

@@ -1,0 +1,32 @@
+------------OOPS---------------------
+1.WHAT IS OOPS?
+    OOPS stands for the object oriented programming , in java everything is trying to map in the object
+    OOPS is a programming paradigm that uses objects and classes to design applications.
+----------------------------------------------------------------------------
+2. 4 PILLER OF OOPS?
+    There are 4 pillers 1.ENCAPSULATION 
+                        2.INHERITANCE
+                        3.ABSTRACTION
+                        4.PLOYMORPHISM
+----------------------------------------------------------------------------
+3.CLASSES AND OBJECT
+    CLASSES---> class is the collection of the methods and objects. 
+    OBJECT----> the object is the real-time entity having some state and behavior. 
+    object is an instance of the class having instance of variable.
+4.WHAT IS INHERITANCE?
+    Inheritance in java is a mechanism in which one object acquires all the properties and 
+    behaviours of a parent object . it is represent parent-child relation.
+     Types of Inheritance-->
+                             1.Single Inheritance--> There is only one super class and one derived class
+                                --> signal derived class inheritated from signal super class
+                                ---> Super class ----> Derived Class
+                            2. MultiLevel Inheritance -- > A derived class inheritateed from super class
+                                which is already inheritated from anoter super class
+                                ------super class ----> super class ---> Derived class
+                            3.Hierachical Inheritance--> In Hierachical inheritance more than 1 derived class is 
+                                are inheritated from signal super class
+                            4.Hybrid Inheritance --> in Hybrid inheritance is combination of the two or more 
+                                Inheritance like --> MultiLevel inheritace with single Inheritance
+
+5. this keyword--> the this keyword refere to the current class object
+6. super keyword--> Refer to the current object is super class
