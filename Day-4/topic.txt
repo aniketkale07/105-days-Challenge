@@ -1,11 +1,26 @@
 
  Exception Handling
+    Exception are mainly caused by the application itself
  ----------------------------------------------------------------------------
 1.what is use of try and catch
 ----------------------------------------------------------------------------
 2.checked and unchecked exception
+    checked --> checked exception are checked at compile time
+    unchecked --> Unchecked exception are checked at Runtime exception
 ----------------------------------------------------------------------------
-3.throws keyword in java
 ----------------------------------------------------------------------------
 4.diffrent between throw and throws
+throws -> Delcares that a method might throw an exception and it is up the calling method to handle it.
+throw - > Use to explicity throw an exception
+
 ----------------------------------------------------------------------------
+5. What is error --> 
+    Errors are mainly caused by the  environment in which  an application is running eg. 
+    eg. OutOfMemoryError
+
+Exception-->
+        1.NUllPointerException
+        2.IOException
+        3. ClassNotFound Exception
+        4. Arithmetic Exception
+        5.
