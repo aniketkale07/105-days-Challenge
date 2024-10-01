@@ -1,0 +1,52 @@
+----------STRING-----------
+
+** what is String?
+    String is the collection of charachter.
+
+** what is StringBuilder?
+    StringBuilder in Java is a class used to create mutable (modifiable) 
+    sequences of characters, unlike the String class, which creates immutable 
+    objects. This means you can change the contents of a StringBuilder object 
+    without creating a new object each time, making it 
+    more efficient when working with strings that change frequently.
+
+** Common Methods of StringBuilder:
+    append(String str): Appends the specified string to this character sequence.
+    insert(int offset, String str): Inserts the string at the specified position.
+    delete(int start, int end): Removes characters in the specified range.
+    replace(int start, int end, String str): Replaces characters in the specified range with the provided string.
+    reverse(): Reverses the character sequence.
+    toString(): Converts the StringBuilder to a String.
+    
+
+** what is String Buffer ?
+        Is class in java which represent ,mutable sequence of charachter.
+    it provide of slternative of  immutable string class, allowin you to modify the string without creating new 
+    object of String
+
+
+    public class StringBufferExample {
+    public static void main(String[] args)
+    {
+        StringBuffer sb = new StringBuffer();
+        sb.append("Hello");
+        sb.append(" ");
+        sb.append("world");
+        String message = sb.toString();
+        System.out.println(message);
+    }
+}
+ 
+** String Constant pool?
+    String object are most used data object in java. java as a special arrangement
+    to store the string object. String Constant pool is one such arrangement
+    it is a pool of string object which are used in the program. it is a memory location
+    where all the string literal are stored. it is a pool of string object which are used in
+        the program. it is a memory location where all the string literal are stored.
+
+** 
+StringBuilder vs. StringBuffer:
+    StringBuilder is not thread-safe, meaning it cannot be used safely in
+    multi-threaded environments.
+    StringBuffer is similar to StringBuilder but is thread-safe, 
+    with synchronized methods to ensure safe use by multiple threads.

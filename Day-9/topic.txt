@@ -1,0 +1,25 @@
+-------- FILE Operation -----------------
+1. basic about file handling in java?
+    - File Handling in Java is a way to read and write data to a file. Java provides
+    several classes and methods to handle files, including reading and writing text
+    files, binary files, and other types of files.
+
+2. How to read a file in Java?
+    - You can read a file in Java using the `FileReader` class. Here is an example
+    of how to read a file in Java:
+
+3.Writing to a file
+
+** Buffered Reading and Writing
+
+4.Character Streams vs. Byte Streams
+
+5.File Input/Output with PrintWriter
+
+6.File Navigation and Information
+
+7. Creating and deleting files
+
+8.Handling exceptions in FILE I/O
+
+9. Using try-with-resources for Auto Closing files
