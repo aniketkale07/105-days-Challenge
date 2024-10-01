@@ -1,4 +1,3 @@
-package Day-2;
 
 public class Operator {
     public static void main(String[] args) {
