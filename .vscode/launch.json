@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StringBufferExample",
+            "request": "launch",
+            "mainClass": "StringBufferExample",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractionWithCLass",
+            "request": "launch",
+            "mainClass": "AbstractionWithCLass",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "AnimalSoundDemo",
+            "request": "launch",
+            "mainClass": "AnimalSoundDemo",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreadingWithRunnable",
+            "request": "launch",
+            "mainClass": "MultiThreading.MultiThreadingWithRunnable",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreadingWithThread",
+            "request": "launch",
+            "mainClass": "MultiThreading.MultiThreadingWithThread",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "105-days-Challenge_351afb29"
+        }
+    ]
+}
