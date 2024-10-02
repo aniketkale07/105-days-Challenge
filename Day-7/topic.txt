@@ -1,12 +1,22 @@
 1.Program of Implementation of Multithreding Implementation
 ----------------------------------------------------------------------------
-2.Thread States in MultiThreading in java
+
 ----------------------------------------------------------------------------
 3. priority in Thread
+	max priority --> 10
+	min priority --> 1
+	default priority -> 5
 ----------------------------------------------------------------------------
 4.what is deadlock ? 
+	Is a situation where two or more threads are waiting for each other's resources
+	indefinitely, resulting in a state where none of them can proceed. 
 ----------------------------------------------------------------------------
 5.what is thread?
+	 thread is the smallest unit of a process that can be scheduled for execution by 
+	 an operating system. It represents a sequence of instructions that can be 
+	 executed independently. In Java and other programming languages, threads allow 
+	 for concurrent execution, which means that multiple tasks can be executed
+	  simultaneously, improving the efficiency and responsiveness of an application.
 ----------------------------------------------------------------------------
 6.states of Thread? ---> 
 			1.new
