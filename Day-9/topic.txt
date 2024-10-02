@@ -8,9 +8,7 @@
     - You can read a file in Java using the `FileReader` class. Here is an example
     of how to read a file in Java:
 
-3.Writing to a file
-
-** Buffered Reading and Writing
+3.Writing to a file --> FileWriter  
 
 4.Character Streams vs. Byte Streams
 
