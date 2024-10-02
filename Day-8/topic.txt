@@ -21,7 +21,7 @@
 
 ** what is String Buffer ?
         Is class in java which represent ,mutable sequence of charachter.
-    it provide of slternative of  immutable string class, allowin you to modify the string without creating new 
+    it provide of alternative of  immutable string class, allowing you to modify the string without creating new 
     object of String
 
 
