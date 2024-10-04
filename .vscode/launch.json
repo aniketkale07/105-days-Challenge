@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MapClass",
+            "request": "launch",
+            "mainClass": "MapClass",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "QueueClass",
+            "request": "launch",
+            "mainClass": "QueueClass",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListClass",
+            "request": "launch",
+            "mainClass": "LinkedListClass",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "105-days-Challenge_351afb29"
+        },
+        {
+            "type": "java",
             "name": "FileOperation",
             "request": "launch",
             "mainClass": "FileOperation",
