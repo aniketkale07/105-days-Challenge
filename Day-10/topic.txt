@@ -1,0 +1,15 @@
+------------  Collection Framework ----------
+is a framework that provides an architecture for storing and manipulating groups
+ of objects.    
+
+ 1. Array -
+ 2. ArrayList -
+ 2. LinkedList -
+ 3. Queue -
+ 4. Stack -
+ 5. map -
+ 6. HashSet -
+ 7. HashMap -
+ 7. TreeSet -
+ 8. TreeMap -
+ 9. Vector -
